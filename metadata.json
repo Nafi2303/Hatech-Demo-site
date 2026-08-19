@@ -1,0 +1,6 @@
+{
+  "name": "Horn Africa Tech - Solutions & Transformation Digitale",
+  "description": "Portail d'accueil officiel de Horn Africa Technology (HATECH) - Leader en intégration Odoo, Cloud, Développement logiciel, Cybersécurité et IA en Afrique de l'Est.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
